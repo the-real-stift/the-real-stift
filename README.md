@@ -6,6 +6,7 @@ Interested in `web` `backend` `clean code` and `design`.
 ## 🛠️ Tech Stack
 
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3">
 <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js" alt="next.js">
 <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
